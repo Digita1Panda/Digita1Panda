@@ -6,11 +6,14 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-  
+ <p align="center">
 ## #30NitesOfCode:
-  [Check out my progress!](https://www.codedex.io/@prodigykyo25569/30-nites-of-code)  
+[Check out my progress!](https://www.codedex.io/@prodigykyo25569/30-nites-of-code)
+![@prodigykyo25569 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=prodigykyo25569)
+</p> 
+
   
-  ![@prodigykyo25569 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=prodigykyo25569)
+ 
 
 
 <!---
