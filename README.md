@@ -8,7 +8,7 @@
 
 ## #30NitesOfCode:
 
-<div align="center">[Check out my progress!](https://www.codedex.io/@prodigykyo25569/30-nites-of-code)</div>
+[Check out my progress!](https://www.codedex.io/@prodigykyo25569/30-nites-of-code)
 
 <p align="center">
 <img src="https://www.codedex.io/api/petStatus?user=prodigykyo25569" alt="Pet Egg">
