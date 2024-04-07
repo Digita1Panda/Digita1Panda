@@ -1,5 +1,5 @@
 <div align="center" >
-    <img src="../images/lo-fi-transformed.jpeg" width="500" height="250"/>
+    <img src="./images/lo-fi-transformed.jpeg" width="500" height="250"/>
 </div>
 
 <div>
@@ -42,7 +42,7 @@
 <h2 align="center"><img src="https://user-images.githubusercontent.com/65576812/180335476-afb779d0-4032-4e60-9f4d-d1c3e849db2c.png" width="40"> &ensp;About Me&ensp; <img src="https://user-images.githubusercontent.com/65576812/180335476-afb779d0-4032-4e60-9f4d-d1c3e849db2c.png" width="40"></h2>
 <div>
 
-<img align="left" src="../images/cat beep boop.png" width="250px"/>
+<img align="left" src="./images/cat beep boop.png" width="250px"/>
 
 <br>
 <br>
