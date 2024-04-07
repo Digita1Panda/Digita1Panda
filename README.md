@@ -44,7 +44,6 @@
 
 <img align="left" src="./images/cat beep boop.png" width="250px"/>
 
-<br>
 
 📜 Thanks for stopping by.
 
