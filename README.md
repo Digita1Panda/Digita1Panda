@@ -75,11 +75,11 @@
 <a href="https://www.linkedin.com/in/kwoklaw">
 <img src="https://user-images.githubusercontent.com/65576812/183569542-480ab1ee-9e98-4cd9-a60a-23919be2feb4.png" height="30" >
 </a>
-
 <img width="12" />
 <a href="mailto:prodigykyo@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" width="120">
 </a>
+<img width="12" />
 <a href="https://twitter.com/Digita1Panda">
 <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="30">
 </a>
