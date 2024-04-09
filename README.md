@@ -53,7 +53,7 @@
 
 📜 Currently, I am trying to level up my JavaScript, React.js and eventually learn Typescript. Then move on to learning some backend like MongoDB and become a full stack developer.
 
-📜 As a software developer my vision is to create and contribute to projects making a difference in the tech industry and also to to make a positive impact to society.
+📜 As a software developer my vision is to create and contribute to projects making a difference in the tech industry and also to make a positive impact to society.
 
 📜 I am currently working on #30NitesOfCode challenge on Codédex. The challenges are fun and I am looking forward to building some fun projects.
 
