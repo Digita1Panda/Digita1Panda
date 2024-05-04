@@ -90,6 +90,7 @@
 <br>
 <br>
 <img src="https://www.codedex.io/api/petStatus?user=Digita1Panda" height="150" />
+<img src="https://www.codedex.io/images/code-nights/evolved-happy-duck.gif" height="150" />
 </div>
  
 
