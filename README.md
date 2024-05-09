@@ -20,7 +20,7 @@
 <hr>
 
 <div align="center">
-  <h2 align="center"><img src="https://www.codedex.io/api/petStatus?user=Digita1Panda" height="40" />  &ensp;Languages--Frameworks--Tools&ensp; <img src="https://www.codedex.io/api/petStatus?user=Digita1Panda" height="40" /></h2>
+  <h2 align="center"><img src="https://www.codedex.io/images/code-nights/evolved-happy-dragon.gif" height="40" />  &ensp;Languages--Frameworks--Tools&ensp; <img src="https://www.codedex.io/images/code-nights/evolved-happy-dragon.gif" height="40" /></h2>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="40" alt="react logo"  />
@@ -63,7 +63,7 @@
 
 <hr>
 
-<h2 align="center"><img src="https://www.codedex.io/api/petStatus?user=Digita1Panda" height="40" />  &ensp;My Socials&ensp; <img src="https://www.codedex.io/api/petStatus?user=Digita1Panda" height="40" /></h2>
+<h2 align="center"><img src="https://www.codedex.io/images/code-nights/evolved-happy-dragon.gif" height="40" />  &ensp;My Socials&ensp; <img src="https://www.codedex.io/images/code-nights/evolved-happy-dragon.gif" height="40" /></h2>
 <div align="center">
 
 
@@ -89,9 +89,11 @@
 <div align="center" >
 <br>
 <br>
-<img src="https://www.codedex.io/api/petStatus?user=Digita1Panda" height="150" />
+<img src="https://www.codedex.io/images/code-nights/evolved-happy-dragon.gif" height="150" />
 <img src="https://www.codedex.io/images/code-nights/evolved-happy-duck.gif" height="150" />
+<img src="https://www.codedex.io/images/code-nights/evolved-happy-dinosaur.gif" height="150" />
 </div>
+
  
 
 
